@@ -1,4 +1,3 @@
+# Prototipo: no indexar.
 User-agent: *
-Allow: /
-
-Sitemap: https://primaryquizzes.com/sitemap.xml
+Disallow: /
