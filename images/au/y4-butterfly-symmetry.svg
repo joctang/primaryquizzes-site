@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-labelledby="title desc">
+  <title id="title">Vertical symmetry in a butterfly</title>
+  <desc id="desc">A front-facing butterfly with matching wings on both sides of a dashed vertical line through its body.</desc>
+  <rect width="240" height="200" rx="14" fill="#f8fafc"/>
+  <path d="M116 88C91 34 42 43 46 82c2 19 28 28 64 27-31 4-43 32-23 43 14 8 31-6 39-27Z" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="4"/>
+  <path d="M124 88c25-54 74-45 70-6-2 19-28 28-64 27 31 4 43 32 23 43-14 8-31-6-39-27Z" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="4"/>
+  <path d="M120 78v68" stroke="#334155" stroke-width="6" stroke-linecap="round"/>
+  <path d="M119 79c-13-12-19-12-25-10m27 10c13-12 19-12 25-10" fill="none" stroke="#334155" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 24v145" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="7 6"/>
+</svg>

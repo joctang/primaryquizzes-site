@@ -1,0 +1,1 @@
+var e=document.querySelector(`[data-print-spelling]`),t=()=>document.documentElement.classList.remove(`print-spelling-only`);e?.addEventListener(`click`,()=>{document.documentElement.classList.add(`print-spelling-only`),window.addEventListener(`afterprint`,t,{once:!0}),window.print()}),window.addEventListener(`afterprint`,t);

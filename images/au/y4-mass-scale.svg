@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" role="img" aria-labelledby="title desc">
+  <title id="title">Kitchen scale with five equal gram intervals</title>
+  <desc id="desc">An analogue scale from zero to one thousand grams with five equal intervals and a pointer at six hundred grams.</desc>
+  <rect width="300" height="120" rx="14" fill="#f8fafc"/>
+  <path d="M42 68h216" stroke="#334155" stroke-width="4"/>
+  <g stroke="#334155" stroke-width="3"><path d="M42 54v28M85 58v20M128 58v20M171 45v37M214 58v20M258 54v28"/></g>
+  <path d="M171 18v25" stroke="#dc2626" stroke-width="3"/><path d="m164 39 7 9 7-9" fill="#dc2626"/>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#334155" text-anchor="middle"><text x="42" y="105">0 g</text><text x="258" y="105">1,000 g</text></g>
+</svg>

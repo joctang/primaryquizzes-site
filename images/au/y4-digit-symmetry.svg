@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title desc">
+  <title id="title">Digits in a simple block font</title>
+  <desc id="desc">The digits zero, one, two and eight drawn as simple bold block numerals.</desc>
+  <rect width="320" height="96" rx="14" fill="#f8fafc"/>
+  <g fill="none" stroke="#1e3a8a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="44" cy="48" rx="22" ry="31"/>
+    <path d="M112 18v60"/>
+    <path d="M176 27q4-13 18-13 20 0 20 17 0 10-12 20l-26 27h40"/>
+    <ellipse cx="270" cy="32" rx="16" ry="18"/><ellipse cx="270" cy="64" rx="18" ry="19"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#475569" text-anchor="middle"><text x="44" y="92">0</text><text x="112" y="92">1</text><text x="194" y="92">2</text><text x="270" y="92">8</text></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Monthly rainfall over six months</title>
+  <desc id="desc">Rainfall readings are 70, 85, 110, 140, 160 and 170 millimetres.</desc>
+  <rect width="720" height="420" rx="18" fill="#fff"/>
+  <text x="360" y="36" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#18324b">Rainfall over time</text>
+  <g stroke="#d9e3ec" stroke-width="1"><path d="M92 345H675M92 285H675M92 225H675M92 165H675M92 105H675"/></g>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#405568" text-anchor="end"><text x="78" y="350">0</text><text x="78" y="290">50</text><text x="78" y="230">100</text><text x="78" y="170">150</text><text x="78" y="110">200</text></g>
+  <text x="24" y="220" transform="rotate(-90 24 220)" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#405568">Rainfall (mm)</text>
+  <polyline points="112,261 222,243 333,213 444,177 555,153 666,141" fill="none" stroke="#147d78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#147d78" stroke="#fff" stroke-width="3"><circle cx="112" cy="261" r="7"/><circle cx="222" cy="243" r="7"/><circle cx="333" cy="213" r="7"/><circle cx="444" cy="177" r="7"/><circle cx="555" cy="153" r="7"/><circle cx="666" cy="141" r="7"/></g>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#405568" text-anchor="middle"><text x="112" y="371">Month 1</text><text x="222" y="371">Month 2</text><text x="333" y="371">Month 3</text><text x="444" y="371">Month 4</text><text x="555" y="371">Month 5</text><text x="666" y="371">Month 6</text></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" role="img" aria-labelledby="title desc">
+  <title id="title">Unlabelled intervals between 20 and 30 centimetres</title>
+  <desc id="desc">A measuring scale from 20 to 30 centimetres divided into five equal intervals, with a pointer at 25.</desc>
+  <rect width="300" height="100" rx="14" fill="#f8fafc"/>
+  <path d="M40 48h220" stroke="#92400e" stroke-width="4"/>
+  <g stroke="#92400e" stroke-width="3"><path d="M40 35v28M84 39v20M128 39v20M172 31v32M216 39v20M260 35v28"/></g>
+  <path d="M172 12v18" stroke="#dc2626" stroke-width="3"/><path d="m165 26 7 9 7-9" fill="#dc2626"/>
+  <g font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle"><text x="40" y="84">20 cm</text><text x="260" y="84">30 cm</text></g>
+</svg>

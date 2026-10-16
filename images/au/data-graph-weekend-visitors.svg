@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" role="img" aria-labelledby="title desc">
+  <title id="title">Weekend visitors</title>
+  <desc id="desc">Friday 240 visitors, Saturday 280 and Sunday 310.</desc>
+  <rect width="640" height="280" rx="16" fill="#fff"/>
+  <text x="24" y="38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1e3a5f">Weekend visitors</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#1e3a5f">
+    <text x="24" y="99">Friday</text><text x="24" y="159">Saturday</text><text x="24" y="219">Sunday</text>
+  </g>
+  <g>
+    <rect x="150" y="73" width="288" height="34" rx="7" fill="#287d8e"/>
+    <rect x="150" y="133" width="336" height="34" rx="7" fill="#e09f3e"/>
+    <rect x="150" y="193" width="372" height="34" rx="7" fill="#5f8d4e"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1e3a5f">
+    <text x="448" y="96">240</text><text x="496" y="156">280</text><text x="532" y="216">310</text>
+  </g>
+</svg>

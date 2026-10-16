@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 270" role="img" aria-labelledby="title desc">
+  <title id="title">Fictional school map with a labelled grid</title>
+  <desc id="desc">A four-column by four-row school map. Column letters A to D run left to right, row numbers 1 to 4 run top to bottom, and north points up.</desc>
+  <rect width="360" height="270" rx="14" fill="#f8fafc"/>
+  <text x="168" y="23" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#1e3a8a">SCHOOL MAP</text>
+  <path d="M324 72V42" stroke="#1e3a8a" stroke-width="3"/><path d="m317 51 7-12 7 12" fill="#1e3a8a"/><text x="324" y="32" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">N</text>
+  <g font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#334155" text-anchor="middle"><text x="78" y="45">A</text><text x="138" y="45">B</text><text x="198" y="45">C</text><text x="258" y="45">D</text><text x="31" y="81">1</text><text x="31" y="125">2</text><text x="31" y="169">3</text><text x="31" y="213">4</text></g>
+  <g stroke="#475569" stroke-width="1.5">
+    <rect x="48" y="54" width="60" height="44" fill="#dbeafe"/><rect x="108" y="54" width="60" height="44" fill="#fef3c7"/><rect x="168" y="54" width="60" height="44" fill="#dcfce7"/><rect x="228" y="54" width="60" height="44" fill="#f1f5f9"/>
+    <rect x="48" y="98" width="60" height="44" fill="#dcfce7"/><rect x="108" y="98" width="60" height="44" fill="#fef3c7"/><rect x="168" y="98" width="60" height="44" fill="#bfdbfe"/><rect x="228" y="98" width="60" height="44" fill="#f1f5f9"/>
+    <rect x="48" y="142" width="60" height="44" fill="#f1f5f9"/><rect x="108" y="142" width="60" height="44" fill="#e9d5ff"/><rect x="168" y="142" width="60" height="44" fill="#dbeafe"/><rect x="228" y="142" width="60" height="44" fill="#dcfce7"/>
+    <rect x="48" y="186" width="60" height="44" fill="#f1f5f9"/><rect x="108" y="186" width="60" height="44" fill="#f1f5f9"/><rect x="168" y="186" width="60" height="44" fill="#f1f5f9"/><rect x="228" y="186" width="60" height="44" fill="#f1f5f9"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="10.5" font-weight="600" fill="#0f172a" text-anchor="middle">
+    <text x="78" y="80">Library</text><text x="138" y="80">Bus stop</text><text x="198" y="80">Oval</text><text x="258" y="80">Gate</text>
+    <text x="78" y="124">Garden</text><text x="138" y="124">Canteen</text><text x="198" y="124">Playground</text><text x="258" y="124">Toilets</text>
+    <text x="78" y="168">Art room</text><text x="138" y="168">Hall</text><text x="198" y="168">Office</text><text x="258" y="168">Courts</text>
+    <text x="78" y="212">Path</text><text x="138" y="212">Music</text><text x="198" y="212">Pool</text><text x="258" y="212">Shed</text>
+  </g>
+</svg>

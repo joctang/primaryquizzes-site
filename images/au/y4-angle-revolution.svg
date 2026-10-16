@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-labelledby="title desc">
+  <title id="title">One complete revolution</title>
+  <desc id="desc">A circular arrow travels all the way around a central point and returns to its starting direction.</desc>
+  <rect width="220" height="190" rx="14" fill="#f8fafc"/>
+  <circle cx="110" cy="95" r="4" fill="#1e3a8a"/>
+  <path d="M110 42A53 53 0 1 1 109.9 42" fill="none" stroke="#2563eb" stroke-width="4" stroke-linecap="round"/>
+  <path d="m102 48 8-11 8 11" fill="#2563eb"/>
+  <path d="M110 95h55" stroke="#1e3a8a" stroke-width="4" stroke-linecap="round"/>
+</svg>

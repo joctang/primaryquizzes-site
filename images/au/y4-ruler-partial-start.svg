@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" role="img" aria-labelledby="title desc">
+  <title id="title">Object measured on a ruler without the zero mark</title>
+  <desc id="desc">An object begins at 4 centimetres and ends at 11 centimetres on a ruler whose visible marks begin at 3.</desc>
+  <rect width="320" height="120" rx="14" fill="#f8fafc"/>
+  <rect x="28" y="38" width="264" height="50" rx="5" fill="#fef3c7" stroke="#92400e" stroke-width="2"/>
+  <g stroke="#92400e" stroke-width="2">
+    <path d="M48 38v28M78 38v18M108 38v28M138 38v18M168 38v28M198 38v18M228 38v28M258 38v18M288 38v28"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="13" fill="#334155" text-anchor="middle"><text x="48" y="82">3</text><text x="78" y="82">4</text><text x="108" y="82">5</text><text x="138" y="82">6</text><text x="168" y="82">7</text><text x="198" y="82">8</text><text x="228" y="82">9</text><text x="258" y="82">10</text><text x="288" y="82">11</text></g>
+  <path d="M78 25h210" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M78 18v14m210-14v14" stroke="#1d4ed8" stroke-width="3"/>
+</svg>

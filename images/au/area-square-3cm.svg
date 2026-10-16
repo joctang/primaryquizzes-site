@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" role="img" aria-labelledby="title desc">
+  <title id="title">A square with 3 centimetre sides</title>
+  <desc id="desc">A square with one side labelled 3 cm.</desc>
+  <rect width="320" height="280" rx="16" fill="#fff"/>
+  <rect x="90" y="72" width="140" height="140" fill="#dceef8" stroke="#17324d" stroke-width="4"/>
+  <path d="M90 54V38 M230 54V38 M90 43H230" fill="none" stroke="#17324d" stroke-width="2"/>
+  <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#17324d">3 cm</text>
+</svg>

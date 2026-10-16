@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-labelledby="title desc">
+  <title id="title">Line of symmetry in an isosceles triangle</title>
+  <desc id="desc">An isosceles triangle with a dashed vertical line from its top vertex to the centre of its base.</desc>
+  <rect width="240" height="200" rx="14" fill="#f8fafc"/>
+  <path d="M120 22 42 162h156Z" fill="#dcfce7" stroke="#166534" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M120 22v140" stroke="#dc2626" stroke-width="3" stroke-dasharray="8 6"/>
+  <path d="M120 152h10v10" fill="none" stroke="#334155" stroke-width="2"/>
+</svg>

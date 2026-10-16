@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 180" role="img" aria-labelledby="title desc">
+  <title id="title">Compare areas by counting unit squares</title>
+  <desc id="desc">A blue region covers six equal squares and a green region covers eight.</desc>
+  <rect width="340" height="180" rx="14" fill="#f8fafc"/>
+  <g stroke="#1e3a8a" stroke-width="2" fill="#bfdbfe"><rect x="28" y="40" width="34" height="34"/><rect x="62" y="40" width="34" height="34"/><rect x="96" y="40" width="34" height="34"/><rect x="28" y="74" width="34" height="34"/><rect x="62" y="74" width="34" height="34"/><rect x="96" y="74" width="34" height="34"/></g>
+  <g stroke="#166534" stroke-width="2" fill="#bbf7d0"><rect x="190" y="40" width="34" height="34"/><rect x="224" y="40" width="34" height="34"/><rect x="258" y="40" width="34" height="34"/><rect x="292" y="40" width="34" height="34"/><rect x="190" y="74" width="34" height="34"/><rect x="224" y="74" width="34" height="34"/><rect x="258" y="74" width="34" height="34"/><rect x="292" y="74" width="34" height="34"/></g>
+</svg>

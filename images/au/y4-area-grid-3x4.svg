@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 210" role="img" aria-labelledby="title desc">
+  <title id="title">Four rows and three columns of unit squares</title>
+  <desc id="desc">A rectangle divided into twelve equal square units, arranged in four rows and three columns.</desc>
+  <rect width="220" height="180" rx="14" fill="#f8fafc"/>
+  <g fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"><rect x="45" y="18" width="44" height="44"/><rect x="89" y="18" width="44" height="44"/><rect x="133" y="18" width="44" height="44"/><rect x="45" y="62" width="44" height="44"/><rect x="89" y="62" width="44" height="44"/><rect x="133" y="62" width="44" height="44"/><rect x="45" y="106" width="44" height="44"/><rect x="89" y="106" width="44" height="44"/><rect x="133" y="106" width="44" height="44"/><rect x="45" y="150" width="44" height="44"/><rect x="89" y="150" width="44" height="44"/><rect x="133" y="150" width="44" height="44"/></g>
+</svg>

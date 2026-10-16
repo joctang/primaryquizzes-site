@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 245" role="img" aria-labelledby="title desc">
+  <title id="title">Growing tile pattern</title>
+  <desc id="desc">Three stages show rows of tiles growing by two each time: stage 1 has three tiles, stage 2 has five, and stage 3 has seven.</desc>
+  <rect width="720" height="245" rx="18" fill="#f8fafc"/>
+  <g font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#16324f" text-anchor="middle">
+    <text x="110" y="35">Stage 1</text><text x="360" y="35">Stage 2</text><text x="610" y="35">Stage 3</text>
+    <g fill="#d9f0f2" stroke="#176b87" stroke-width="3">
+      <rect x="80" y="100" width="30" height="30"/><rect x="110" y="100" width="30" height="30"/><rect x="140" y="100" width="30" height="30"/>
+      <rect x="280" y="100" width="30" height="30"/><rect x="310" y="100" width="30" height="30"/><rect x="340" y="100" width="30" height="30"/><rect x="370" y="100" width="30" height="30"/><rect x="400" y="100" width="30" height="30"/>
+      <rect x="500" y="100" width="30" height="30"/><rect x="530" y="100" width="30" height="30"/><rect x="560" y="100" width="30" height="30"/><rect x="590" y="100" width="30" height="30"/><rect x="620" y="100" width="30" height="30"/><rect x="650" y="100" width="30" height="30"/><rect x="680" y="100" width="30" height="30"/>
+    </g>
+    <text x="125" y="195">3 tiles</text><text x="355" y="195">5 tiles</text><text x="605" y="195">7 tiles</text>
+  </g>
+</svg>

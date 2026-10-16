@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Rainfall at four locations</title>
+  <desc id="desc">Location A recorded 25 millimetres, Location B 20, Location C 15 and Location D 12.</desc>
+  <rect width="640" height="320" rx="16" fill="#fff"/>
+  <text x="28" y="42" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#1e3a5f">Rainfall at four locations</text>
+  <g stroke="#d8e1eb" stroke-width="1"><path d="M130 80v190M220 80v190M310 80v190M400 80v190M490 80v190M580 80v190"/></g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#1e3a5f">
+    <text x="28" y="118">Location A</text><text x="28" y="168">Location B</text><text x="28" y="218">Location C</text><text x="28" y="268">Location D</text>
+  </g>
+  <g>
+    <rect x="130" y="92" width="375" height="30" rx="6" fill="#287d8e"/><rect x="130" y="142" width="300" height="30" rx="6" fill="#e09f3e"/>
+    <rect x="130" y="192" width="225" height="30" rx="6" fill="#5f8d4e"/><rect x="130" y="242" width="180" height="30" rx="6" fill="#7276a8"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1e3a5f">
+    <text x="514" y="114">25 mm</text><text x="439" y="164">20 mm</text><text x="364" y="214">15 mm</text><text x="319" y="264">12 mm</text>
+  </g>
+</svg>

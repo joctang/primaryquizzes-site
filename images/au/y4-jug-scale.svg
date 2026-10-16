@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-labelledby="title desc">
+  <title id="title">Measuring jug with equal millilitre intervals</title>
+  <desc id="desc">A measuring jug marked at zero, two hundred, four hundred and six hundred millilitres, with liquid at four hundred.</desc>
+  <rect width="240" height="180" rx="14" fill="#f8fafc"/>
+  <path d="M75 20h92v128H75Z" fill="#fff" stroke="#334155" stroke-width="3"/>
+  <path d="M167 35h22v100h-22" fill="none" stroke="#334155" stroke-width="3"/>
+  <path d="M78 70h86v75H78Z" fill="#bae6fd"/>
+  <g stroke="#334155" stroke-width="2"><path d="M145 40h22M153 58h14M145 76h22M153 94h14M145 112h22M153 130h14M145 148h22"/></g>
+  <g font-family="Arial,sans-serif" font-size="12" fill="#334155" text-anchor="end"><text x="140" y="44">600 mL</text><text x="140" y="80">400 mL</text><text x="140" y="116">200 mL</text><text x="140" y="152">0 mL</text></g>
+</svg>

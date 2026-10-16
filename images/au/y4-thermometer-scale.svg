@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 220" role="img" aria-labelledby="title desc">
+  <title id="title">Thermometer with unlabelled Celsius intervals</title>
+  <desc id="desc">A thermometer labelled at ten and thirty degrees Celsius, divided into five equal four-degree intervals, with the liquid at twenty-six degrees.</desc>
+  <rect width="180" height="220" rx="14" fill="#f8fafc"/>
+  <rect x="66" y="24" width="28" height="142" rx="14" fill="#fff" stroke="#334155" stroke-width="3"/>
+  <circle cx="80" cy="177" r="22" fill="#fee2e2" stroke="#334155" stroke-width="3"/>
+  <path d="M80 62v116" stroke="#ef4444" stroke-width="10" stroke-linecap="round"/>
+  <g stroke="#334155" stroke-width="2"><path d="M94 38h18M94 63h12M94 88h18M94 113h12M94 138h18M94 163h12"/></g>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#334155"><text x="118" y="43">30°C</text><text x="118" y="93">22°C</text><text x="118" y="143">14°C</text><text x="118" y="168">10°C</text></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 370" role="img" aria-labelledby="title desc">
+  <title id="title">How students travelled to school in a small survey</title>
+  <desc id="desc">A column graph for 22 survey responses: walk 6, scooter 4, car 7, bus 5. Car is the most common response in this group.</desc>
+  <rect width="720" height="370" rx="18" fill="#f8fafc"/>
+  <text x="360" y="36" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#16324f">How did 22 students travel to school?</text>
+  <g stroke="#94a3b8" stroke-width="2"><path d="M100 300H660M100 250H660M100 200H660M100 150H660M100 100H660"/></g>
+  <g font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="end"><text x="88" y="305">0</text><text x="88" y="255">2</text><text x="88" y="205">4</text><text x="88" y="155">6</text><text x="88" y="105">8</text></g>
+  <g fill="#64b7c4"><rect x="155" y="150" width="78" height="150"/><rect x="280" y="200" width="78" height="100"/><rect x="405" y="125" width="78" height="175"/><rect x="530" y="175" width="78" height="125"/></g>
+  <g font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#16324f" text-anchor="middle"><text x="194" y="140">6</text><text x="319" y="190">4</text><text x="444" y="115">7</text><text x="569" y="165">5</text></g>
+  <g font-family="Arial,sans-serif" font-size="17" fill="#16324f" text-anchor="middle"><text x="194" y="330">Walk</text><text x="319" y="330">Scooter</text><text x="444" y="330">Car</text><text x="569" y="330">Bus</text></g>
+  <text x="28" y="200" transform="rotate(-90 28 200)" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#334155">Number of responses</text>
+</svg>

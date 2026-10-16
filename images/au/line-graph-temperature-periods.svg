@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Temperature over nine periods</title>
+  <desc id="desc">Temperatures are 15, 19, 24, 25, 20, 15, 10, 10 and 5 degrees Celsius.</desc>
+  <rect width="720" height="420" rx="18" fill="#fff"/>
+  <text x="360" y="36" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#18324b">Temperature over time</text>
+  <g stroke="#d9e3ec" stroke-width="1"><path d="M92 345H675M92 295H675M92 245H675M92 195H675M92 145H675M92 95H675"/></g>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#405568" text-anchor="end"><text x="78" y="350">0</text><text x="78" y="300">5</text><text x="78" y="250">10</text><text x="78" y="200">15</text><text x="78" y="150">20</text><text x="78" y="100">25</text></g>
+  <text x="24" y="220" transform="rotate(-90 24 220)" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#405568">Temperature (°C)</text>
+  <polyline points="112,195 181,155 250,105 319,95 388,145 457,195 526,245 595,245 664,295" fill="none" stroke="#147d78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#147d78" stroke="#fff" stroke-width="3"><circle cx="112" cy="195" r="7"/><circle cx="181" cy="155" r="7"/><circle cx="250" cy="105" r="7"/><circle cx="319" cy="95" r="7"/><circle cx="388" cy="145" r="7"/><circle cx="457" cy="195" r="7"/><circle cx="526" cy="245" r="7"/><circle cx="595" cy="245" r="7"/><circle cx="664" cy="295" r="7"/></g>
+  <g font-family="Arial,sans-serif" font-size="13" fill="#405568" text-anchor="middle"><text x="112" y="371">Period 1</text><text x="181" y="371">2</text><text x="250" y="371">3</text><text x="319" y="371">4</text><text x="388" y="371">5</text><text x="457" y="371">6</text><text x="526" y="371">7</text><text x="595" y="371">8</text><text x="664" y="371">9</text></g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+<title id="title">Kitchen scale marked in grams</title><desc id="desc">A horizontal kitchen scale from zero to 1000 grams, with labelled marks every 200 grams and a pointer at 600 grams.</desc>
+<rect width="640" height="220" rx="18" fill="#fff"/><rect x="55" y="68" width="530" height="70" rx="14" fill="#eef3f6" stroke="#526778" stroke-width="3"/>
+<g stroke="#26354a" stroke-width="3" fill="#26354a" font-family="Arial,sans-serif" font-size="15" text-anchor="middle">
+<line x1="80" y1="108" x2="80" y2="138"/><text x="80" y="165" stroke="none">0</text>
+<line x1="130" y1="118" x2="130" y2="138"/>
+<line x1="180" y1="108" x2="180" y2="138"/><text x="180" y="165" stroke="none">200</text>
+<line x1="230" y1="118" x2="230" y2="138"/>
+<line x1="280" y1="108" x2="280" y2="138"/><text x="280" y="165" stroke="none">400</text>
+<line x1="330" y1="118" x2="330" y2="138"/>
+<line x1="380" y1="108" x2="380" y2="138"/><text x="380" y="165" stroke="none">600</text>
+<line x1="430" y1="118" x2="430" y2="138"/>
+<line x1="480" y1="108" x2="480" y2="138"/><text x="480" y="165" stroke="none">800</text>
+<line x1="530" y1="118" x2="530" y2="138"/>
+<line x1="580" y1="108" x2="580" y2="138"/><text x="580" y="165" stroke="none">1000</text>
+</g>
+<path d="M380 76 L369 58 L391 58 Z" fill="#bd4b37"/>
+<text x="320" y="202" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#26354a">grams (g)</text>
+</svg>

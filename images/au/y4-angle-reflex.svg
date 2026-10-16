@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 190" role="img" aria-labelledby="title desc">
+  <title id="title">Reflex angle</title>
+  <desc id="desc">Two rays form a small angle, with the larger reflex turn marked around the outside.</desc>
+  <rect width="240" height="190" rx="14" fill="#f8fafc"/>
+  <circle cx="112" cy="112" r="4" fill="#1e3a8a"/>
+  <path d="M112 112h86M112 112 155 38" stroke="#1e3a8a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M172 112A60 60 0 1 0 142 60" fill="none" stroke="#dc2626" stroke-width="3"/>
+  <path d="m134 59 10-7 1 13" fill="#dc2626"/>
+</svg>

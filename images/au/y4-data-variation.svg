@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" role="img" aria-labelledby="title desc">
+  <title id="title">Compare variation in two rating distributions</title>
+  <desc id="desc">Class A has ten ratings clustered at three, with two each at two and four. Class B has two ratings at every value from one to five, so it is more spread out.</desc>
+  <rect width="420" height="240" rx="14" fill="#f8fafc"/>
+  <text x="105" y="24" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#1e3a8a">Class A</text>
+  <text x="315" y="24" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#1e3a8a">Class B</text>
+  <g stroke="#cbd5e1" stroke-width="1"><path d="M38 190h148M228 190h148M38 160h148M228 160h148M38 130h148M228 130h148M38 100h148M228 100h148M38 70h148M228 70h148"/></g>
+  <g fill="#60a5fa"><rect x="48" y="190" width="18" height="0"/><rect x="75" y="130" width="18" height="60"/><rect x="102" y="70" width="18" height="120"/><rect x="129" y="130" width="18" height="60"/><rect x="156" y="190" width="18" height="0"/></g>
+  <g fill="#34d399"><rect x="238" y="130" width="18" height="60"/><rect x="265" y="130" width="18" height="60"/><rect x="292" y="130" width="18" height="60"/><rect x="319" y="130" width="18" height="60"/><rect x="346" y="130" width="18" height="60"/></g>
+  <g font-family="Arial,sans-serif" font-size="11" fill="#334155" text-anchor="middle"><text x="57" y="209">1</text><text x="84" y="209">2</text><text x="111" y="209">3</text><text x="138" y="209">4</text><text x="165" y="209">5</text><text x="247" y="209">1</text><text x="274" y="209">2</text><text x="301" y="209">3</text><text x="328" y="209">4</text><text x="355" y="209">5</text></g>
+  <text x="207" y="232" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#334155">Rating value</text>
+</svg>

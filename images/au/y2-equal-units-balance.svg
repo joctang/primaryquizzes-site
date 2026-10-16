@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-labelledby="title desc">
+  <title id="title">Comparing mass with equal counters</title><desc id="desc">A balanced beam scale has a lunchbox on one side and six identical counters on the other.</desc>
+  <rect width="720" height="340" rx="24" fill="#f4f8ff"/><text x="36" y="52" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#183153">Compare mass with equal units</text>
+  <path d="M360 115 L300 275 H420 Z" fill="#b7c9df" stroke="#52677f" stroke-width="4"/><path d="M140 128 H580" stroke="#52677f" stroke-width="12" stroke-linecap="round"/><circle cx="360" cy="128" r="15" fill="#f6c85f" stroke="#9b6b00" stroke-width="4"/>
+  <path d="M190 135 V210 M530 135 V210" stroke="#52677f" stroke-width="4"/><path d="M115 210 Q190 258 265 210 Z M455 210 Q530 258 605 210 Z" fill="#d9e7f5" stroke="#52677f" stroke-width="4"/>
+  <rect x="145" y="174" width="90" height="42" rx="8" fill="#f6c85f" stroke="#9b6b00" stroke-width="3"/><text x="157" y="202" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#503900">lunchbox</text>
+  <g fill="#91c8ff" stroke="#245c9b" stroke-width="2"><circle cx="480" cy="195" r="12"/><circle cx="510" cy="195" r="12"/><circle cx="540" cy="195" r="12"/><circle cx="570" cy="195" r="12"/><circle cx="495" cy="222" r="12"/><circle cx="525" cy="222" r="12"/></g>
+  <text x="232" y="315" font-family="Arial,sans-serif" font-size="21" fill="#183153">balanced: same mass on both sides</text>
+</svg>

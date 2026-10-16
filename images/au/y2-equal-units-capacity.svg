@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-labelledby="title desc">
+  <title id="title">Comparing container capacity with equal cups</title><desc id="desc">Three identical cups pour into a jar without spills; the cups are the informal units.</desc>
+  <rect width="720" height="330" rx="24" fill="#f4f8ff"/><text x="36" y="52" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#183153">Use the same cup each time</text>
+  <path d="M120 125 H250 L235 250 Q185 275 135 250 Z" fill="#fff" stroke="#52677f" stroke-width="5"/><path d="M135 190 H239 L235 250 Q185 275 135 250 Z" fill="#70c9ef"/><text x="153" y="110" font-family="Arial,sans-serif" font-size="20" fill="#183153">container</text>
+  <path d="M320 170 H400 L390 250 Q360 262 330 250 Z M430 170 H510 L500 250 Q470 262 440 250 Z M540 170 H620 L610 250 Q580 262 550 250 Z" fill="#70c9ef" stroke="#245c9b" stroke-width="4"/><text x="378" y="297" font-family="Arial,sans-serif" font-size="21" fill="#183153">3 equal cups fill it</text>
+  <path d="M280 210 H305 M300 200 L310 210 L300 220" fill="none" stroke="#ef8354" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-labelledby="title desc">
+  <title id="title">Whole and partial square units</title>
+  <desc id="desc">Five full shaded grid squares and two half squares form an irregular region.</desc>
+  <rect width="240" height="180" rx="14" fill="#f8fafc"/>
+  <g fill="#fde68a" stroke="#b45309" stroke-width="2">
+    <rect x="38" y="28" width="42" height="42"/><rect x="80" y="28" width="42" height="42"/><rect x="122" y="28" width="42" height="42"/>
+    <rect x="38" y="70" width="42" height="42"/><rect x="80" y="70" width="42" height="42"/>
+    <path d="M122 70h42v42Z"/><path d="M164 70v42h-42Z"/>
+  </g>
+</svg>

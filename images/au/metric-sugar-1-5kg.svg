@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sugar packet labelled 1.5 kg</title>
+  <desc id="desc">A simple illustrated packet of sugar showing its mass.</desc>
+  <rect width="400" height="300" rx="24" fill="#f4f7fb"/>
+  <path d="M125 55h150l18 28v160H107V83z" fill="#fff" stroke="#334155" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M125 55l-18 28h186l-18-28" fill="#e2e8f0" stroke="#334155" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M108 105h184v28H108z" fill="#38bdf8"/>
+  <text x="200" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#172554">SUGAR</text>
+  <text x="200" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="#172554">1.5 kg</text>
+</svg>

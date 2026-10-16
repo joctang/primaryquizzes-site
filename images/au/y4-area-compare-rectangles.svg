@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 180" role="img" aria-labelledby="title desc">
+  <title id="title">Different rectangles with equal area</title>
+  <desc id="desc">A three-by-four rectangle and a two-by-six rectangle each contain twelve equal square units.</desc>
+  <rect width="340" height="180" rx="14" fill="#f8fafc"/>
+  <g stroke="#1d4ed8" stroke-width="2" fill="#dbeafe"><rect x="42" y="48" width="22" height="22"/><rect x="64" y="48" width="22" height="22"/><rect x="86" y="48" width="22" height="22"/><rect x="108" y="48" width="22" height="22"/><rect x="42" y="70" width="22" height="22"/><rect x="64" y="70" width="22" height="22"/><rect x="86" y="70" width="22" height="22"/><rect x="108" y="70" width="22" height="22"/><rect x="42" y="92" width="22" height="22"/><rect x="64" y="92" width="22" height="22"/><rect x="86" y="92" width="22" height="22"/><rect x="108" y="92" width="22" height="22"/></g>
+  <g stroke="#166534" stroke-width="2" fill="#dcfce7"><rect x="186" y="59" width="22" height="22"/><rect x="208" y="59" width="22" height="22"/><rect x="230" y="59" width="22" height="22"/><rect x="252" y="59" width="22" height="22"/><rect x="274" y="59" width="22" height="22"/><rect x="296" y="59" width="22" height="22"/><rect x="186" y="81" width="22" height="22"/><rect x="208" y="81" width="22" height="22"/><rect x="230" y="81" width="22" height="22"/><rect x="252" y="81" width="22" height="22"/><rect x="274" y="81" width="22" height="22"/><rect x="296" y="81" width="22" height="22"/></g>
+</svg>

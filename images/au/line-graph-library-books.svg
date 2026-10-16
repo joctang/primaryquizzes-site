@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Books borrowed each week</title>
+  <desc id="desc">The number of books borrowed in weeks 1 to 6 is 40, 45, 38, 48, 52 and 48.</desc>
+  <rect width="720" height="420" rx="18" fill="#fff"/>
+  <text x="360" y="36" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#18324b">Books borrowed each week</text>
+  <g stroke="#d9e3ec" stroke-width="1"><path d="M92 345H675M92 290H675M92 235H675M92 180H675M92 125H675"/></g>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#405568" text-anchor="end"><text x="78" y="350">0</text><text x="78" y="295">15</text><text x="78" y="240">30</text><text x="78" y="185">45</text><text x="78" y="130">60</text></g>
+  <text x="24" y="220" transform="rotate(-90 24 220)" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#405568">Books borrowed</text>
+  <polyline points="112,198 222,180 333,205 444,169 555,154 666,169" fill="none" stroke="#147d78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#147d78" stroke="#fff" stroke-width="3"><circle cx="112" cy="198" r="7"/><circle cx="222" cy="180" r="7"/><circle cx="333" cy="205" r="7"/><circle cx="444" cy="169" r="7"/><circle cx="555" cy="154" r="7"/><circle cx="666" cy="169" r="7"/></g>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#405568" text-anchor="middle"><text x="112" y="371">Week 1</text><text x="222" y="371">Week 2</text><text x="333" y="371">Week 3</text><text x="444" y="371">Week 4</text><text x="555" y="371">Week 5</text><text x="666" y="371">Week 6</text></g>
+</svg>

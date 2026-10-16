@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 284" role="img" aria-labelledby="title">
+  <title id="title">Transport choices</title>
+  <rect width="640" height="284" rx="16" fill="#fff"/>
+  <text x="24" y="42" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1e3a5f">Transport choices</text>
+  <text x="24" y="116" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#1e3a5f">Bicycle</text>
+  <rect x="220" y="95" width="290" height="30" rx="7" fill="#287d8e"/>
+  <text x="520" y="116" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1e3a5f">40</text>
+  <text x="24" y="168" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#1e3a5f">Car</text>
+  <rect x="220" y="147" width="145" height="30" rx="7" fill="#e09f3e"/>
+  <text x="375" y="168" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1e3a5f">20</text>
+  <text x="24" y="220" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#1e3a5f">Bus</text>
+  <rect x="220" y="199" width="73" height="30" rx="7" fill="#5f8d4e"/>
+  <text x="303" y="220" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1e3a5f">10</text>
+  <text x="24" y="272" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#1e3a5f">Train</text>
+  <rect x="220" y="251" width="109" height="30" rx="7" fill="#7276a8"/>
+  <text x="339" y="272" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1e3a5f">15</text>
+</svg>

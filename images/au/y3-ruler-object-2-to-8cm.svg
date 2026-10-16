@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 190" role="img" aria-labelledby="title desc">
+<title id="title">Marked ruler</title><desc id="desc">A ruler marked in centimetres. An object spans the selected marks.</desc>
+<rect width="640" height="190" rx="18" fill="#fff"/><rect x="65" y="82" width="510" height="45" rx="5" fill="#f6d990" stroke="#69552d" stroke-width="2"/>
+<rect x="176" y="48" width="288" height="22" rx="5" fill="#4388c7" stroke="#24577f" stroke-width="2"/>
+<line x1='80' y1='92' x2='80' y2='120' stroke='#26354a' stroke-width='2'/><text x='80' y='151' text-anchor='middle' font-size='15' fill='#26354a'>0</text>
+<line x1='128' y1='92' x2='128' y2='108' stroke='#26354a' stroke-width='2'/>
+<line x1='176' y1='92' x2='176' y2='108' stroke='#26354a' stroke-width='2'/><text x='176' y='151' text-anchor='middle' font-size='15' fill='#26354a'>2</text>
+<line x1='224' y1='92' x2='224' y2='108' stroke='#26354a' stroke-width='2'/>
+<line x1='272' y1='92' x2='272' y2='108' stroke='#26354a' stroke-width='2'/><text x='272' y='151' text-anchor='middle' font-size='15' fill='#26354a'>4</text>
+<line x1='320' y1='92' x2='320' y2='120' stroke='#26354a' stroke-width='2'/>
+<line x1='368' y1='92' x2='368' y2='108' stroke='#26354a' stroke-width='2'/><text x='368' y='151' text-anchor='middle' font-size='15' fill='#26354a'>6</text>
+<line x1='416' y1='92' x2='416' y2='108' stroke='#26354a' stroke-width='2'/>
+<line x1='464' y1='92' x2='464' y2='108' stroke='#26354a' stroke-width='2'/><text x='464' y='151' text-anchor='middle' font-size='15' fill='#26354a'>8</text>
+<line x1='512' y1='92' x2='512' y2='108' stroke='#26354a' stroke-width='2'/>
+<line x1='560' y1='92' x2='560' y2='120' stroke='#26354a' stroke-width='2'/><text x='560' y='151' text-anchor='middle' font-size='15' fill='#26354a'>10</text>
+<text x="320" y="180" text-anchor="middle" font-size="14" fill="#26354a">centimetres</text>
+</svg>

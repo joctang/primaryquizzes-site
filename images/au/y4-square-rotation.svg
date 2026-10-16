@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-labelledby="title desc">
+  <title id="title">Quarter turns of a square</title>
+  <desc id="desc">A square with its centre marked and four arrows around it indicating quarter-turn positions.</desc>
+  <rect width="240" height="200" rx="14" fill="#f8fafc"/>
+  <rect x="80" y="48" width="80" height="80" fill="#fef3c7" stroke="#92400e" stroke-width="4"/>
+  <circle cx="120" cy="88" r="4" fill="#92400e"/>
+  <g fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round">
+    <path d="M72 44a68 68 0 0 1 92-4"/><path d="m154 30 12 10-15 3"/>
+    <path d="M174 132a68 68 0 0 1-92 4"/><path d="m92 146-12-10 15-3"/>
+  </g>
+  <text x="120" y="177" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#334155">one complete turn</text>
+</svg>

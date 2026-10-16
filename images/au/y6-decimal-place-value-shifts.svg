@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">Decimal place value chart and multiplication by ten</title><desc id="desc">A place value chart shows 3.46 as 3 ones, 4 tenths and 6 hundredths. Multiplying by ten shifts each digit one place to the left, making 34.6.</desc>
+  <rect width="720" height="300" rx="24" fill="#f4f8ff"/><text x="30" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#183153">Each digit moves one place when multiplying by 10</text>
+  <g stroke="#52677f" stroke-width="2" fill="#ffffff"><rect x="60" y="88" width="120" height="110"/><rect x="180" y="88" width="120" height="110"/><rect x="300" y="88" width="120" height="110"/><rect x="420" y="88" width="120" height="110"/><rect x="540" y="88" width="120" height="110"/></g>
+  <g font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#183153"><text x="120" y="120">Tens</text><text x="240" y="120">Ones</text><text x="360" y="120">Tenths</text><text x="480" y="120">Hundredths</text><text x="600" y="120">Thousandths</text></g>
+  <g font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle" fill="#245c9b"><text x="240" y="173">3</text><text x="360" y="173">4</text><text x="480" y="173">6</text></g>
+  <text x="230" y="238" font-family="Arial,sans-serif" font-size="20" fill="#183153">3.46 × 10 = 34.6</text><text x="230" y="270" font-family="Arial,sans-serif" font-size="17" fill="#52677f">The digits shift; the decimal point does not travel.</text>
+</svg>

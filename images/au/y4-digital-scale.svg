@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 140" role="img" aria-labelledby="title desc">
+  <title id="title">Digital kitchen scale reading</title>
+  <desc id="desc">A digital kitchen scale display showing 1.25 kilograms.</desc>
+  <rect width="240" height="140" rx="14" fill="#f8fafc"/>
+  <path d="M50 26h140l18 90H32Z" fill="#e2e8f0" stroke="#475569" stroke-width="3"/>
+  <rect x="67" y="48" width="106" height="42" rx="5" fill="#dcfce7" stroke="#166534" stroke-width="2"/>
+  <text x="120" y="77" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" fill="#14532d">1.25 kg</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 250" role="img" aria-labelledby="title desc">
+  <title id="title">After-school activities pictograph</title>
+  <desc id="desc">A pictograph shows sport with three stars, music five stars, reading four stars and art two stars; each star represents two students.</desc>
+  <rect width="360" height="250" rx="14" fill="#f8fafc"/>
+  <text x="180" y="25" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#1e3a8a">After-school activity survey</text>
+  <g font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#334155"><text x="28" y="72">Sport</text><text x="28" y="112">Music</text><text x="28" y="152">Reading</text><text x="28" y="192">Art</text></g>
+  <g font-family="Arial,sans-serif" font-size="27" fill="#f59e0b">
+    <text x="130" y="75">★★★</text><text x="130" y="115">★★★★★</text><text x="130" y="155">★★★★</text><text x="130" y="195">★★</text>
+  </g>
+  <rect x="88" y="211" width="184" height="27" rx="8" fill="#e0f2fe"/>
+  <text x="180" y="230" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#0f172a">Key: ★ = 2 students</text>
+</svg>

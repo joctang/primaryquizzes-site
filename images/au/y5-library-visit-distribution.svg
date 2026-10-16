@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 360" role="img" aria-labelledby="title desc">
+  <title id="title">Number of library visits in one month</title>
+  <desc id="desc">A column graph of 20 students: zero visits 2, one visit 5, two visits 8, three visits 4, and four visits 1. Two visits is the mode and most responses are near the centre.</desc>
+  <rect width="680" height="360" rx="18" fill="#f8fafc"/>
+  <text x="340" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#16324f">Library visits by 20 students this month</text>
+  <g stroke="#94a3b8" stroke-width="2"><path d="M95 295H640M95 255H640M95 215H640M95 175H640M95 135H640M95 95H640"/></g>
+  <g font-family="Arial,sans-serif" font-size="15" fill="#334155" text-anchor="end"><text x="82" y="300">0</text><text x="82" y="260">2</text><text x="82" y="220">4</text><text x="82" y="180">6</text><text x="82" y="140">8</text><text x="82" y="100">10</text></g>
+  <g fill="#efbd67"><rect x="145" y="255" width="58" height="40"/><rect x="245" y="195" width="58" height="100"/><rect x="345" y="135" width="58" height="160"/><rect x="445" y="215" width="58" height="80"/><rect x="545" y="275" width="58" height="20"/></g>
+  <g font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#16324f" text-anchor="middle"><text x="174" y="247">2</text><text x="274" y="187">5</text><text x="374" y="127">8</text><text x="474" y="207">4</text><text x="574" y="267">1</text></g>
+  <g font-family="Arial,sans-serif" font-size="16" fill="#16324f" text-anchor="middle"><text x="174" y="323">0</text><text x="274" y="323">1</text><text x="374" y="323">2</text><text x="474" y="323">3</text><text x="574" y="323">4</text></g>
+  <text x="27" y="195" transform="rotate(-90 27 195)" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#334155">Number of students</text>
+  <text x="375" y="348" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#475569">Library visits</text>
+</svg>

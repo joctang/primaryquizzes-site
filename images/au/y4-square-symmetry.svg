@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-labelledby="title desc">
+  <title id="title">Four lines of symmetry in a square</title>
+  <desc id="desc">A blue square with vertical, horizontal and diagonal symmetry lines.</desc>
+  <rect width="240" height="200" rx="14" fill="#f8fafc"/>
+  <rect x="55" y="18" width="130" height="130" fill="#dbeafe" stroke="#1e3a8a" stroke-width="4"/>
+  <g stroke="#dc2626" stroke-width="2.5" stroke-dasharray="7 5">
+    <path d="M120 10v146M47 83h146M49 12l142 142M191 12 49 154"/>
+  </g>
+</svg>

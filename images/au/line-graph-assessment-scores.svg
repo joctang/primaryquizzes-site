@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Average assessment scores</title>
+  <desc id="desc">Average scores out of 10 at seven checkpoints are 6.8, 7.2, 7.4, 7.6, 8.1, 8.3 and 8.7.</desc>
+  <rect width="720" height="420" rx="18" fill="#fff"/>
+  <text x="360" y="36" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#18324b">Average assessment scores</text>
+  <g stroke="#d9e3ec" stroke-width="1"><path d="M92 345H675M92 295H675M92 245H675M92 195H675M92 145H675M92 95H675"/></g>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#405568" text-anchor="end"><text x="78" y="350">0</text><text x="78" y="300">2</text><text x="78" y="250">4</text><text x="78" y="200">6</text><text x="78" y="150">8</text><text x="78" y="100">10</text></g>
+  <text x="24" y="220" transform="rotate(-90 24 220)" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#405568">Average score (out of 10)</text>
+  <polyline points="112,175 204,165 296,160 388,155 480,142.5 572,137.5 664,127.5" fill="none" stroke="#147d78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#147d78" stroke="#fff" stroke-width="3"><circle cx="112" cy="175" r="7"/><circle cx="204" cy="165" r="7"/><circle cx="296" cy="160" r="7"/><circle cx="388" cy="155" r="7"/><circle cx="480" cy="142.5" r="7"/><circle cx="572" cy="137.5" r="7"/><circle cx="664" cy="127.5" r="7"/></g>
+  <g font-family="Arial,sans-serif" font-size="13" fill="#405568" text-anchor="middle"><text x="112" y="371">Checkpoint 1</text><text x="204" y="371">2</text><text x="296" y="371">3</text><text x="388" y="371">4</text><text x="480" y="371">5</text><text x="572" y="371">6</text><text x="664" y="371">7</text></g>
+</svg>

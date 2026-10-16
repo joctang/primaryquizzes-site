@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">Four composite shapes made from familiar shapes</title>
+  <desc id="desc">Four outlined examples: a house made from a square and triangle, a rocket made from a rectangle and triangles, a robot made from rectangles and a circle, and a fish made from a triangle and an oval.</desc>
+  <rect width="760" height="360" rx="20" fill="#f8fafc"/>
+  <g font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#16324f" text-anchor="middle" stroke="#176b87" stroke-width="4" stroke-linejoin="round">
+    <g transform="translate(40 32)"><text x="120" y="24" stroke="none">House</text><path d="M40 125 120 65 200 125V245H40Z" fill="#d9f0f2"/><path d="M40 125 120 65 200 125" fill="#f7c873"/><rect x="100" y="175" width="40" height="70" fill="#fff"/><rect x="55" y="145" width="32" height="32" fill="#fff"/></g>
+    <g transform="translate(420 32)"><text x="120" y="24" stroke="none">Rocket</text><rect x="88" y="90" width="64" height="135" rx="28" fill="#d9f0f2"/><path d="M88 180 55 235 88 225M152 180 185 235 152 225" fill="#f7c873"/><path d="M88 115 120 65 152 115Z" fill="#ffdf9e"/><circle cx="120" cy="145" r="15" fill="#fff"/><path d="M100 225 120 270 140 225Z" fill="#f28b62"/></g>
+    <g transform="translate(40 0)"><text x="120" y="334" stroke="none">Robot</text><rect x="70" y="270" width="100" height="54" fill="#d9f0f2"/><circle cx="120" cy="275" r="28" fill="#f7c873"/><circle cx="110" cy="272" r="3" fill="#16324f"/><circle cx="130" cy="272" r="3" fill="#16324f"/></g>
+    <g transform="translate(420 0)"><text x="120" y="334" stroke="none">Fish</text><ellipse cx="120" cy="285" rx="60" ry="32" fill="#d9f0f2"/><path d="M60 285 25 258V312Z" fill="#f7c873"/><circle cx="150" cy="279" r="4" fill="#16324f"/></g>
+  </g>
+</svg>

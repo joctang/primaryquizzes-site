@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 108" role="img" aria-labelledby="title desc">
+  <title id="title">Capital letters and vertical symmetry</title>
+  <desc id="desc">Block capitals F, A, P and R, with a dashed vertical line through the symmetrical letter A.</desc>
+  <rect width="320" height="108" rx="14" fill="#f8fafc"/>
+  <g fill="#dbeafe" stroke="#1e3a8a" stroke-width="2"><rect x="20" y="13" width="58" height="80" rx="7"/><rect x="94" y="13" width="58" height="80" rx="7"/><rect x="168" y="13" width="58" height="80" rx="7"/><rect x="242" y="13" width="58" height="80" rx="7"/></g>
+  <g font-family="Arial,sans-serif" font-size="58" font-weight="700" text-anchor="middle" fill="#1e3a8a"><text x="49" y="73">F</text><text x="123" y="73">A</text><text x="197" y="73">P</text><text x="271" y="73">R</text></g>
+  <path d="M123 9v88" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="6 5"/>
+</svg>

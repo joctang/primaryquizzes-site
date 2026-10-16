@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+  <title id="title">Bucket and measuring jug marked 2,000 mL</title>
+  <desc id="desc">A bucket beside a measuring jug with a 2,000 mL label.</desc>
+  <rect width="480" height="300" rx="24" fill="#f4f7fb"/>
+  <path d="M69 107h145l-13 145H82z" fill="#60a5fa" stroke="#1e3a8a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M78 112c2-63 125-63 127 0" fill="none" stroke="#1e3a8a" stroke-width="7"/>
+  <path d="M93 171h97M91 204h94" stroke="#fff" stroke-width="5" opacity=".85"/>
+  <path d="M288 104h99v146h-99z" fill="#fff" stroke="#334155" stroke-width="5"/>
+  <path d="M387 135h28v83h-28" fill="#dbeafe" stroke="#334155" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M303 142h30m-30 25h20m-20 25h30m-30 25h20" stroke="#2563eb" stroke-width="4"/>
+  <path d="M292 211h92v35h-92" fill="#93c5fd" opacity=".72"/>
+  <text x="337" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#172554">2,000 mL</text>
+</svg>

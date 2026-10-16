@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-labelledby="title desc">
+  <title id="title">Complete a reflected butterfly pattern</title>
+  <desc id="desc">One blue butterfly wing and body detail appears on the left of a dashed vertical mirror line; the matching right half is blank.</desc>
+  <rect width="240" height="200" rx="14" fill="#f8fafc"/>
+  <path d="M118 98C105 73 72 39 48 50 28 60 42 88 78 102 46 108 37 136 59 146 81 156 105 128 118 108Z" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="4"/>
+  <path d="M118 97C97 83 75 66 51 57M118 103C92 104 66 112 43 126M118 108C99 123 81 138 62 143" fill="none" stroke="#1d4ed8" stroke-width="2.5"/>
+  <path d="M120 38v124" stroke="#dc2626" stroke-width="3" stroke-dasharray="8 6"/>
+  <path d="M120 76c-8-8-15-4-13 3m13-3c8-8 15-4 13 3" fill="none" stroke="#334155" stroke-width="3" stroke-linecap="round"/>
+</svg>

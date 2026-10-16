@@ -1,0 +1,1 @@
+import{t as e}from"./progress.CNW7nm0w.js";var t=e();document.querySelectorAll(`[data-progress-card]`).forEach(e=>{let n=t[e.dataset.progressCard??``],r=e.querySelector(`[data-progress-badge]`);n&&r&&(r.textContent=`Best: ${n.best}/${n.bestTotal}`,r.hidden=!1)});

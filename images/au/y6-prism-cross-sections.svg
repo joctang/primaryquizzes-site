@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">Parallel cross-sections through a right prism</title><desc id="desc">A rectangular prism is sliced in two planes parallel to its rectangular base; both cross-sections are equal rectangles.</desc>
+  <rect width="760" height="360" rx="24" fill="#f4f8ff"/><text x="36" y="48" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#183153">Parallel slices in a right prism</text>
+  <path d="M180 115 L390 115 L490 65 L280 65 Z" fill="#c8e2ff" stroke="#245c9b" stroke-width="4"/><path d="M180 115 V275 L390 275 V115 M390 115 L490 65 V225 L390 275" fill="#91c8ff" stroke="#245c9b" stroke-width="4"/><path d="M180 115 L280 65 V225 L180 275" fill="#d9edff" stroke="#245c9b" stroke-width="4"/>
+  <path d="M180 168 L390 168 L490 118 M180 168 L280 118 L490 118" fill="none" stroke="#ef8354" stroke-width="5" stroke-dasharray="10 7"/><path d="M180 222 L390 222 L490 172 M180 222 L280 172 L490 172" fill="none" stroke="#2f8f6b" stroke-width="5" stroke-dasharray="10 7"/>
+  <text x="520" y="146" font-family="Arial,sans-serif" font-size="19" fill="#8b4527">slice A</text><text x="520" y="202" font-family="Arial,sans-serif" font-size="19" fill="#176147">slice B</text><text x="196" y="325" font-family="Arial,sans-serif" font-size="20" fill="#183153">Both cuts are parallel to the rectangular base.</text>
+</svg>

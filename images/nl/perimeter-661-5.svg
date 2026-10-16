@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" font-family="Arial, Helvetica, sans-serif">
+  <rect width="400" height="400" fill="#ffffff"/>
+  <!-- Vierkant: zijde 4 cm (240 px) -->
+  <rect x="80" y="90" width="240" height="240" fill="#4e79a7" fill-opacity="0.15" stroke="#4e79a7" stroke-width="3"/>
+  <line x1="80" y1="86" x2="80" y2="56" stroke="#666666" stroke-width="1"/>
+  <line x1="320" y1="86" x2="320" y2="56" stroke="#666666" stroke-width="1"/>
+  <line x1="80" y1="62" x2="320" y2="62" stroke="#666666" stroke-width="1.5"/>
+  <line x1="80" y1="56" x2="80" y2="68" stroke="#666666" stroke-width="1.5"/>
+  <line x1="320" y1="56" x2="320" y2="68" stroke="#666666" stroke-width="1.5"/>
+  <text x="200" y="50" font-size="18" fill="#333333" text-anchor="middle">4 cm</text>
+  <text x="200" y="375" font-size="18" fill="#333333" text-anchor="middle">vierkant</text>
+</svg>

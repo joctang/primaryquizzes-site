@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 250" role="img" aria-labelledby="title desc">
+  <title id="title">Two possible cube-net arrangements</title>
+  <desc id="desc">Arrangement A has six equal squares in a cross-shaped net that can fold into a cube. Arrangement B has six equal squares in one straight row, which cannot fold into a cube without overlap.</desc>
+  <rect width="700" height="250" rx="18" fill="#f8fafc"/>
+  <g font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#16324f" text-anchor="middle"><text x="185" y="36">A</text><text x="535" y="36">B</text></g>
+  <g fill="#d9f0f2" stroke="#176b87" stroke-width="3">
+    <rect x="95" y="100" width="42" height="42"/><rect x="137" y="100" width="42" height="42"/><rect x="179" y="100" width="42" height="42"/><rect x="221" y="100" width="42" height="42"/><rect x="137" y="58" width="42" height="42"/><rect x="137" y="142" width="42" height="42"/>
+    <rect x="430" y="100" width="42" height="42"/><rect x="472" y="100" width="42" height="42"/><rect x="514" y="100" width="42" height="42"/><rect x="556" y="100" width="42" height="42"/><rect x="598" y="100" width="42" height="42"/><rect x="640" y="100" width="42" height="42"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="15" fill="#475569" text-anchor="middle"><text x="185" y="215">Six equal square faces</text><text x="535" y="215">Six equal square faces</text></g>
+</svg>

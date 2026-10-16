@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Three eighths of a full turn</title>
+  <desc id="desc">A full circle divided into eight equal sectors, with three adjacent sectors shaded.</desc>
+  <rect width="320" height="320" rx="20" fill="#fff"/>
+  <path d="M160 160 L160 40 A120 120 0 0 1 244.853 75.147 Z" fill="#78c8ef"/>
+  <g fill="none" stroke="#17324d" stroke-width="4">
+    <circle cx="160" cy="160" r="120"/>
+    <path d="M160 160V40 M160 160L244.853 75.147 M160 160L244.853 244.853 M160 160V280 M160 160L75.147 244.853 M160 160L40 160 M160 160L75.147 75.147"/>
+  </g>
+  <circle cx="160" cy="160" r="5" fill="#17324d"/>
+</svg>

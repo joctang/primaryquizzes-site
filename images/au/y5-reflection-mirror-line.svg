@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 330" role="img" aria-labelledby="title desc">
+  <title id="title">A triangle reflected across a vertical mirror line</title>
+  <desc id="desc">A blue triangle on the left and its same-sized mirror image on the right sit at equal distances from a vertical dashed mirror line. The reflected triangle faces the opposite direction.</desc>
+  <rect width="620" height="330" rx="18" fill="#f8fafc"/>
+  <path d="M310 45V285" stroke="#64748b" stroke-width="3" stroke-dasharray="9 8"/>
+  <text x="310" y="32" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#334155">Mirror line</text>
+  <path d="M145 95 260 165 145 235Z" fill="#d9f0f2" stroke="#176b87" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M475 95 360 165 475 235Z" fill="#f7c873" stroke="#9a5b14" stroke-width="4" stroke-linejoin="round"/>
+  <g font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#16324f" text-anchor="middle"><text x="202" y="270">Original</text><text x="418" y="270">Reflected image</text></g>
+</svg>

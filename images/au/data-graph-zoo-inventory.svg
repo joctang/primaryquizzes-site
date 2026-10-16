@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title desc">
+  <title id="title">Zoo animal inventory</title>
+  <desc id="desc">Lions 4, tigers 6, elephants 3 and giraffes 5.</desc>
+  <rect width="600" height="320" rx="16" fill="#fff"/>
+  <text x="28" y="42" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#1e3a5f">Zoo animal inventory</text>
+  <rect x="28" y="64" width="544" height="48" rx="8" fill="#e8eef5"/>
+  <text x="60" y="96" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1e3a5f">Animal</text>
+  <text x="490" y="96" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#1e3a5f">Count</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#1e3a5f">
+    <text x="60" y="151">Lions</text><text x="490" y="151" text-anchor="middle">4</text>
+    <text x="60" y="198">Tigers</text><text x="490" y="198" text-anchor="middle">6</text>
+    <text x="60" y="245">Elephants</text><text x="490" y="245" text-anchor="middle">3</text>
+    <text x="60" y="292">Giraffes</text><text x="490" y="292" text-anchor="middle">5</text>
+  </g>
+  <path d="M28 168h544M28 215h544M28 262h544" stroke="#d8e1eb" stroke-width="2"/>
+</svg>

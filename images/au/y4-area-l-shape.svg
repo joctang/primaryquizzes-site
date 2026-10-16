@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 180" role="img" aria-labelledby="title desc">
+  <title id="title">L-shaped region of six unit squares</title>
+  <desc id="desc">Six shaded equal squares form an L shape on a light grid.</desc>
+  <rect width="220" height="180" rx="14" fill="#f8fafc"/>
+  <g stroke="#94a3b8" stroke-width="1.5" fill="#dcfce7"><rect x="45" y="24" width="42" height="42"/><rect x="87" y="24" width="42" height="42"/><rect x="129" y="24" width="42" height="42"/><rect x="45" y="66" width="42" height="42"/><rect x="45" y="108" width="42" height="42"/><rect x="87" y="108" width="42" height="42"/></g>
+</svg>
